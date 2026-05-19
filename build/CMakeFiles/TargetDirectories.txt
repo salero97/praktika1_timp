@@ -1,0 +1,3 @@
+/home/ilyushin_ABs426/timp/praktika1_timp/build/CMakeFiles/fire_safety_app.dir
+/home/ilyushin_ABs426/timp/praktika1_timp/build/CMakeFiles/edit_cache.dir
+/home/ilyushin_ABs426/timp/praktika1_timp/build/CMakeFiles/rebuild_cache.dir

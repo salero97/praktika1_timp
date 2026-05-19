@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/fire_safety_app.dir/main.cpp.o CMakeFiles/fire_safety_app.dir/business/Entities.cpp.o CMakeFiles/fire_safety_app.dir/business/FireSafetyService.cpp.o CMakeFiles/fire_safety_app.dir/data/Repository.cpp.o CMakeFiles/fire_safety_app.dir/presentation/ConsoleUI.cpp.o -o fire_safety_app 
